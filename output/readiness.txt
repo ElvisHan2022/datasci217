@@ -1,0 +1,14 @@
+Python family: 3.13
+Project: DataSci 217 Assignment 01
+Script: readiness.py
+Measurement: 18 within range
+Measurement: 21 review
+Measurement: 24 review
+Measurement: 19 within range
+Count: 4
+Total: 82
+Mean: 20.5
+Review count: 2
+Readiness: complete
+Participant count: 4
+Next checkpoint: 5
